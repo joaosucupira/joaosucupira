@@ -1,7 +1,7 @@
 <h1 align="center">Oi!👋, Me chamo João Sucupira</h1>
 <h3 align="center">Curso Bacharel em Sistema de Informação na UTFPR - Curitiba (PR)</h3>
 
-- 🔭 Projeto atual : [Sistema Acadêmico (C++)](https://github.com/joaosucupira/Sistema-Academico)
+- 🔭 Projeto atual : [Aplicativo de Pedidos (PHP)](https://github.com/joaosucupira/AplicativoHarve)
 
 - 🌱 Estou aprendendo **PHP, SQL, Laravel, Estrutura de dados, Orientação a objeto**
 
