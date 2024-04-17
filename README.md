@@ -3,7 +3,7 @@
 
 - 🔭 Projeto atual : [Aplicativo de Pedidos (PHP)](https://github.com/joaosucupira/AplicativoHarve)
 
-- 🌱 Estou aprendendo **PHP, SQL, Laravel, Estrutura de dados, Orientação a objeto**
+- 🌱 Estou aprendendo [**Biblioteca React.js**](https://github.com/joaosucupira/studying-react)
 
 - 📫 Correio eletrônico **jasucupira@gmail.com**
 
