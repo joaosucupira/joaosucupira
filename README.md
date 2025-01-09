@@ -1,15 +1,17 @@
-<h1 align="center">Oi!👋, Me chamo João Sucupira</h1>
-<h3 align="center">Curso Bacharel em Sistema de Informação na UTFPR - Curitiba (PR)</h3>
+<h1 align="center">Nice to meet you!👋, My name is João Sucupira</h1>
+<h3 align="center">Undergraduate student in Information Systems at the Federal University of Technology – Paraná (UTFPR), Curitiba, Brazil.</h3>
 
-- 🔭 Projeto atual : [Aplicativo de Pedidos (PHP)](https://github.com/joaosucupira/AplicativoHarve)
+- 💻 My present Work : [University Administrative Processes Office](https://processos.utfpr.edu.br/portfolio/index.php)
 
-- 🌱 Estou aprendendo [**Biblioteca React.js**](https://github.com/joaosucupira/studying-react)
+- 🔭 Current projetc : [Platform game in SFML(C++)](https://github.com/joaosucupira/jogo-sfml-tecprog)
 
-- 📫 Correio eletrônico **jasucupira@gmail.com**
+- 🌱 Now learning [**Biblioteca React.js**](https://github.com/joaosucupira/studying-react)
 
-- 📄 Currículo [https://drive.google.com/file/d/1I9RF6esoWvf520Nz9oZXj0mmaI-1B3-z/view?usp=sharing](https://drive.google.com/file/d/1I9RF6esoWvf520Nz9oZXj0mmaI-1B3-z/view?usp=sharing)
+- 📫 E-mail **jasucupira@gmail.com**
 
-- ⚡ Fun fact **Adoro me comunicar e conhecer pessoas novas!**
+- 📄 CV **[Coming soon]**
+
+- ⚡ Fun fact **I'm also a video editor and graphic designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
